@@ -1,4 +1,4 @@
-````markdown
+
 # Hi there 👋  
 ### Mechanical Engineering Student | Robotics Researcher
 
